@@ -1,0 +1,193 @@
+#NEXUS
+begin taxa;
+	dimensions ntax=89;
+	taxlabels
+	13518_BR_RS_SapucaiadoSul_2022-04-12[&Continent="South America",Country="Brazil",Point="Peru"]
+	13520_BR_RS_SapucaiadoSul_2022-04-12[&Continent="South America",Country="Brazil",Point="Peru"]
+	13522_BR_RS_SapucaiadoSul_2022-04-12[&Continent="South America",Country="Brazil",Point="Peru"]
+	14281_BR_RS_SapucaiadoSul_2022-04-13[&Continent="South America",Country="Brazil",Point="Peru"]
+	15094_BR_RS_SapucaiadoSul_2022-04-18[&Continent="South America",Country="Brazil",Point="Peru"]
+	16922_BR_RS_NovoHamburgo_2022-04-19[&Continent="South America",Country="Brazil",Point="Brazil"]
+	16938_BR_RS_NovoHamburgo_2022-04-19[&Continent="South America",Country="Brazil",Point="Brazil"]
+	16967_BR_RS_NovoHamburgo_2022-04-20[&Continent="South America",Country="Brazil",Point="Brazil"]
+	17189_BR_RS_Canoas_2022-04-21[&Continent="South America",Country="Brazil",Point="Brazil"]
+	17305_BR_RS_SapucaiadoSul_2022-04-22[&Continent="South America",Country="Brazil",Point="Peru"]
+	18918_BR_RS_NovoHamburgo_2022-04-24[&Continent="South America",Country="Brazil",Point="Brazil"]
+	20856_BR_RS_SapucaiadoSul_2022-05-01[&Continent="South America",Country="Brazil",Point="Peru"]
+	5040_BR_RS_Erechim_2022-03-20[&Continent="South America",Country="Brazil",Point="Brazil"]
+	AC5019_Brazil-AC_2021-02-24[&Continent="South America",Country="Brazil",Point="Brazil"]
+	AC5030_Brazil-AC_2021-03-10[&Continent="South America",Country="Brazil",Point="Brazil"]
+	AC5038_Brazil-AC_2021-02-27[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_1433-22_BRAZIL-PR_Vere_2022-03-08[&Continent="South America",Country="Brazil",Point="Peru"]
+	Fiocruz-ICC_1434-22_BRAZIL-PR_Vere_2022-03-08[&Continent="South America",Country="Brazil",Point="Peru"]
+	Fiocruz-ICC_2501-22_BRAZIL-PR_PontalDoParana_2022-03-24[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_2793-22_BRAZIL-PR_PontalDoParana_2022-03-28[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3041-22_BRAZIL-PR_PontalDoParana_2022-03-30[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3044-22_BRAZIL-PR_PontalDoParana_2022-03-30[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3055-22_BRAZIL-PR_Itapema_2022-03-28[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3149-22_BRAZIL-PR_Toledo_2022-04-01[&Continent="South America",Country="Brazil",Point="Peru"]
+	Fiocruz-ICC_3342-22_BRAZIL-PR_PontalDoParana_2022-04-01[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3343-22_BRAZIL-PR_PontalDoParana_2022-04-01[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3344-22_BRAZIL-PR_PontalDoParana_2022-04-02[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3346-22_BRAZIL-PR_PontalDoParana_2022-04-02[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3349-22_BRAZIL-PR_PontalDoParana_2022-04-01[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3350-22_BRAZIL-PR_PontalDoParana_2022-04-03[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3625-22_BRAZIL-PR_CruzeiroDoIguacu_2022-04-05[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_3950-22_BRAZIL-PR_PontalDoParana_2022-04-11[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_4141-22_BRAZIL-PR_SaoJoseDosPinhais_2022-04-13[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_4177-22_BRAZIL-PR_Cascavel_2022-04-18[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_4304-22_BRAZIL-PR_Curitiba_2022-04-22[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_4428-22_BRAZIL-PR_Londrina_2022-04-18[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_5431-22_BRAZIL-PR_Toledo_2022-05-08[&Continent="South America",Country="Brazil",Point="Peru"]
+	Fiocruz-ICC_7571_BRAZIL-SC_SaoJose_2023-03-12[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ICC_7975_BRAZIL-SC_Chapeco_2023-01-17[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200001_Brazil_AM_AtalaiadoNorte_2022-10-11[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200002_Brazil_AM_AtalaiadoNorte_2022-11-03[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200003_Brazil_AM_AtalaiadoNorte_2022-11-03[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200004_Brazil_AM_AtalaiadoNorte_2022-11-04[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200005_Brazil_AM_AtalaiadoNorte_2022-11-01[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200006_Brazil_AM_Tabatinga_2022-11-02[&Continent="South America",Country="Brazil",Point="Peru"]
+	Fiocruz-ILMD-FVSRCP_AR2200007_Brazil_AM_Tabatinga_2022-11-03[&Continent="South America",Country="Brazil",Point="Peru"]
+	Fiocruz-ILMD-FVSRCP_AR2200008_Brazil_AM_BenjaminConstant_2022-10-18[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200009_Brazil_AM_BenjaminConstant_2022-10-18[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200010_Brazil_AM_BenjaminConstant_2022-10-19[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200011_Brazil_AM_BenjaminConstant_2022-10-24[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200012_Brazil_AM_BenjaminConstant_2022-10-24[&Continent="South America",Country="Brazil",Point="Brazil"]
+	Fiocruz-ILMD-FVSRCP_AR2200013_BR_AM_SaoPaulodeOlivenca_2022-11-06[&Continent="South America",Country="Brazil",Point="Peru"]
+	IAM-PE_DenV0061_2021-07-14[&Continent="South America",Country="Brazil",Point="Brazil"]
+	LC436669_Bangladesh_2017-10[&Continent="South Asia",Country="Bangladesh",Point="Brazil"]
+	LC436672_Bangladesh_2017-10[&Continent="South Asia",Country="Bangladesh",Point="Brazil"]
+	LC436673_Bangladesh_2017-11[&Continent="South Asia",Country="Bangladesh",Point="Brazil"]
+	LC436674_Bangladesh_2017-11[&Continent="South Asia",Country="Bangladesh",Point="Brazil"]
+	LC436675_Bangladesh_2017-12[&Continent="South Asia",Country="Bangladesh",Point="Brazil"]
+	MN328061_Bangladesh_2019-07-29[&Continent="South Asia",Country="Bangladesh",Point="Brazil"]
+	OM744143_Brazil_GO_2021-11-29[&Continent="South America",Country="Brazil",Point="Brazil"]
+	OM791800_Peru_2019-09-26[&Continent="South America",Country="Peru"]
+	OM791801_Peru_2019-09-28[&Continent="South America",Country="Peru"]
+	ON123626_Peru_2021-04-05[&Continent="South America",Country="Peru"]
+	ON123628_Peru_2021-04-26[&Continent="South America",Country="Peru"]
+	ON123629_Peru_2021-06-08[&Continent="South America",Country="Peru"]
+	ON123630_Peru_2021-06-08[&Continent="South America",Country="Peru"]
+	ON123631_Peru_2021-06-08[&Continent="South America",Country="Peru"]
+	ON123632_Peru_2021-07-05[&Continent="South America",Country="Peru"]
+	ON123633_Peru_2021-08-10[&Continent="South America",Country="Peru"]
+	ON123634_Peru_2021-08-10[&Continent="South America",Country="Peru"]
+	ON123635_Peru_2021-08-13[&Continent="South America",Country="Peru"]
+	ON123636_Peru_2021-08-17[&Continent="South America",Country="Peru"]
+	ON123637_Peru_2021-08-20[&Continent="South America",Country="Peru"]
+	ON123638_Peru_2021-03-01[&Continent="South America",Country="Peru"]
+	ON123639_Peru_2021-03-04[&Continent="South America",Country="Peru"]
+	ON123640_Peru_2021-03-08[&Continent="South America",Country="Peru"]
+	ON123641_Peru_2021-03-24[&Continent="South America",Country="Peru"]
+	ON123642_Peru_2021-04-08[&Continent="South America",Country="Peru"]
+	ON123643_Peru_2021-04-12[&Continent="South America",Country="Peru"]
+	ON123644_Peru_2021-07-21[&Continent="South America",Country="Peru"]
+	ON634742_Brazil-SP_2022-02-05[&Continent="South America",Country="Brazil",Point="Brazil"]
+	ON634743_Brazil-SP_2022-03-15[&Continent="South America",Country="Brazil",Point="Brazil"]
+	ON634745_Brazil-SP_2022-03-14[&Continent="South America",Country="Brazil",Point="Brazil"]
+	ON634750_Brazil-SP_2022-03-24[&Continent="South America",Country="Brazil",Point="Brazil"]
+	ON634756_Brazil-SP_2022-01-30[&Continent="South America",Country="Brazil",Point="Brazil"]
+	OQ622206_Brazil-SP_2022-04-02[&Continent="South America",Country="Brazil",Point="Brazil"]
+	OQ622207_Brazil-SP_2022-03-18[&Continent="South America",Country="Brazil",Point="Brazil"]
+	OQ786047_Brazil-SP_2023-01-18[&Continent="South America",Country="Brazil",Point="Brazil"]
+	OQ786048_Brazil-SP_2023-01-22[&Continent="South America",Country="Brazil",Point="Brazil"]
+;
+end;
+
+begin trees;
+	tree tree_1 = [&R] (((((((((((((((((((((((Fiocruz-ICC_3950-22_BRAZIL-PR_PontalDoParana_2022-04-11[&Continent="South America",Point="Brazil",Country="Brazil"]:1.8E-4,Fiocruz-ICC_7975_BRAZIL-SC_Chapeco_2023-01-17[&Continent="South America",Point="Brazil",Country="Brazil"]:0.002908)[&label=91.3,Continent="South America",Point="Brazil",Country="Brazil"]:7.99E-4,Fiocruz-ICC_3346-22_BRAZIL-PR_PontalDoParana_2022-04-02[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=82.5,Continent="South America",Point="Brazil",Country="Brazil"]:6.15E-4,Fiocruz-ICC_4428-22_BRAZIL-PR_Londrina_2022-04-18[&Continent="South America",Point="Brazil",Country="Brazil"]:6.15E-4)[&label=91.1,Continent="South America",Point="Brazil",Country="Brazil"]:4.59E-4,Fiocruz-ICC_3349-22_BRAZIL-PR_PontalDoParana_2022-04-01[&Continent="South America",Point="Brazil",Country="Brazil"]:5.96E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ICC_3343-22_BRAZIL-PR_PontalDoParana_2022-04-01[&Continent="South America",Point="Brazil",Country="Brazil"]:2.38E-4)[&label=42.9,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,Fiocruz-ICC_3055-22_BRAZIL-PR_Itapema_2022-03-28[&Continent="South America",Point="Brazil",Country="Brazil"]:3.58E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ICC_3350-22_BRAZIL-PR_PontalDoParana_2022-04-03[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=74.7,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,Fiocruz-ICC_4141-22_BRAZIL-PR_SaoJoseDosPinhais_2022-04-13[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=41.1,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,Fiocruz-ICC_2501-22_BRAZIL-PR_PontalDoParana_2022-03-24[&Continent="South America",Point="Brazil",Country="Brazil"]:2.38E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ICC_2793-22_BRAZIL-PR_PontalDoParana_2022-03-28[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=86.2,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,(((Fiocruz-ICC_3041-22_BRAZIL-PR_PontalDoParana_2022-03-30[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ICC_3044-22_BRAZIL-PR_PontalDoParana_2022-03-30[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ICC_3342-22_BRAZIL-PR_PontalDoParana_2022-04-01[&Continent="South America",Point="Brazil",Country="Brazil"]:1.29E-4)[&label=85.9,Continent="South America",Point="Brazil",Country="Brazil"]:1.21E-4,Fiocruz-ICC_3344-22_BRAZIL-PR_PontalDoParana_2022-04-02[&Continent="South America",Point="Brazil",Country="Brazil"]:1.22E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=74.4,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,((((((ON634742_Brazil-SP_2022-02-05[&Continent="South America",Point="Brazil",Country="Brazil"]:0.002401,ON634745_Brazil-SP_2022-03-14[&Continent="South America",Point="Brazil",Country="Brazil"]:0.002266)[&label=35.6,Continent="South America",Point="Brazil",Country="Brazil"]:3.61E-4,ON634756_Brazil-SP_2022-01-30[&Continent="South America",Point="Brazil",Country="Brazil"]:5.64E-4)[&label=97.6,Continent="South America",Point="Brazil",Country="Brazil"]:5.93E-4,(ON634743_Brazil-SP_2022-03-15[&Continent="South America",Point="Brazil",Country="Brazil"]:0.002028,ON634750_Brazil-SP_2022-03-24[&Continent="South America",Point="Brazil",Country="Brazil"]:0.001318)[&label=74,Continent="South America",Point="Brazil",Country="Brazil"]:1.01E-4)[&label=96.7,Continent="South America",Point="Brazil",Country="Brazil"]:6.85E-4,((OQ786048_Brazil-SP_2023-01-22[&Continent="South America",Point="Brazil",Country="Brazil"]:4.32E-4,OQ786047_Brazil-SP_2023-01-18[&Continent="South America",Point="Brazil",Country="Brazil"]:0.006159)[&label=78.5,Continent="South America",Point="Brazil",Country="Brazil"]:4.38E-4,OQ622207_Brazil-SP_2022-03-18[&Continent="South America",Point="Brazil",Country="Brazil"]:0.001635)[&label=99.2,Continent="South America",Point="Brazil",Country="Brazil"]:0.001164)[&label=91.9,Continent="South America",Point="Brazil",Country="Brazil"]:4.73E-4,5040_BR_RS_Erechim_2022-03-20[&Continent="South America",Point="Brazil",Country="Brazil"]:0.00235)[&label=93.8,Continent="South America",Point="Brazil",Country="Brazil"]:4.87E-4,Fiocruz-ICC_4304-22_BRAZIL-PR_Curitiba_2022-04-22[&Continent="South America",Point="Brazil",Country="Brazil"]:9.55E-4)[&label=74.8,Continent="South America",Point="Brazil",Country="Brazil"]:1.18E-4)[&label=94.5,Continent="South America",Point="Brazil",Country="Brazil"]:3.57E-4,((((((13520_BR_RS_SapucaiadoSul_2022-04-12[&Continent="South America",Point="Peru",Country="Brazil"]:1.19E-4,20856_BR_RS_SapucaiadoSul_2022-05-01[&Continent="South America",Point="Peru",Country="Brazil"]:3.58E-4)[&label=0,Continent="South America",Point="Peru",Country="Brazil"]:1.0E-6,16938_BR_RS_NovoHamburgo_2022-04-19[&Continent="South America",Point="Brazil",Country="Brazil"]:9.55E-4)[&label=40.4,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,18918_BR_RS_NovoHamburgo_2022-04-24[&Continent="South America",Point="Brazil",Country="Brazil"]:2.38E-4)[&label=97,Continent="South America",Point="Brazil",Country="Brazil"]:4.77E-4,13522_BR_RS_SapucaiadoSul_2022-04-12[&Continent="South America",Point="Peru",Country="Brazil"]:2.38E-4)[&label=72.5,Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4,16967_BR_RS_NovoHamburgo_2022-04-20[&Continent="South America",Point="Brazil",Country="Brazil"]:2.38E-4)[&label=76,Continent="South America",Point="Brazil",Country="Brazil"]:1.29E-4,16922_BR_RS_NovoHamburgo_2022-04-19[&Continent="South America",Point="Brazil",Country="Brazil"]:4.05E-4)[&label=99.8,Continent="South America",Point="Brazil",Country="Brazil"]:0.001428)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,(((Fiocruz-ICC_3149-22_BRAZIL-PR_Toledo_2022-04-01[&Continent="South America",Point="Peru",Country="Brazil"]:6.44E-4,Fiocruz-ICC_3625-22_BRAZIL-PR_CruzeiroDoIguacu_2022-04-05[&Continent="South America",Point="Brazil",Country="Brazil"]:4.32E-4)[&label=77.1,Continent="South America",Point="Peru",Country="Brazil"]:2.91E-4,Fiocruz-ICC_5431-22_BRAZIL-PR_Toledo_2022-05-08[&Continent="South America",Point="Peru",Country="Brazil"]:1.67E-4)[&label=88.2,Continent="South America",Point="Peru",Country="Brazil"]:3.79E-4,(Fiocruz-ICC_1433-22_BRAZIL-PR_Vere_2022-03-08[&Continent="South America",Point="Peru",Country="Brazil"]:1.19E-4,Fiocruz-ICC_1434-22_BRAZIL-PR_Vere_2022-03-08[&Continent="South America",Point="Peru",Country="Brazil"]:1.0E-6)[&label=74.7,Continent="South America",Point="Peru",Country="Brazil"]:1.17E-4)[&label=99.8,Continent="South America",Point="Peru",Country="Brazil"]:0.001676)[&label=86.2,Continent="South America",Point="Brazil",Country="Brazil"]:7.11E-4,Fiocruz-ICC_4177-22_BRAZIL-PR_Cascavel_2022-04-18[&Continent="South America",Point="Brazil",Country="Brazil"]:0.001947)[&label=99.6,Continent="South America",Point="Brazil",Country="Brazil"]:0.001318,((((((ON123631_Peru_2021-06-08[&Continent="South America",Country="Peru"]:3.96E-4,ON123632_Peru_2021-07-05[&Continent="South America",Country="Peru"]:9.8E-5)[&label=75.5,Continent="South America",Country="Peru"]:9.8E-5,ON123629_Peru_2021-06-08[&Continent="South America",Country="Peru"]:1.97E-4)[&label=0,Continent="South America",Country="Peru"]:1.0E-6,ON123636_Peru_2021-08-17[&Continent="South America",Country="Peru"]:7.91E-4)[&label=93.7,Continent="South America",Country="Peru"]:2.96E-4,ON123628_Peru_2021-04-26[&Continent="South America",Country="Peru"]:1.97E-4)[&label=86.7,Continent="South America",Country="Peru"]:1.97E-4,(ON123634_Peru_2021-08-10[&Continent="South America",Country="Peru"]:9.8E-5,ON123635_Peru_2021-08-13[&Continent="South America",Country="Peru"]:2.96E-4)[&label=98.1,Continent="South America",Country="Peru"]:5.94E-4)[&label=95.5,Continent="South America",Country="Peru"]:3.96E-4,((ON123633_Peru_2021-08-10[&Continent="South America",Country="Peru"]:2.96E-4,ON123637_Peru_2021-08-20[&Continent="South America",Country="Peru"]:1.97E-4)[&label=0,Continent="South America",Country="Peru"]:1.0E-6,ON123630_Peru_2021-06-08[&Continent="South America",Country="Peru"]:9.8E-5)[&label=95.5,Continent="South America",Country="Peru"]:3.96E-4)[&label=96,Continent="South America",Country="Peru"]:4.94E-4)[&label=99.8,Continent="South America",Country="Peru"]:0.001008,(OM791800_Peru_2019-09-26[&Continent="South America",Country="Peru"]:0.00134,OM791801_Peru_2019-09-28[&Continent="South America",Country="Peru"]:6.17E-4)[&label=95.4,Continent="South America",Country="Peru"]:4.1E-4)[&label=0,Continent="South America",Country="Peru"]:1.0E-6,((((((OM744143_Brazil_GO_2021-11-29[&Continent="South America",Point="Brazil",Country="Brazil"]:0.004294,OQ622206_Brazil-SP_2022-04-02[&Continent="South America",Point="Brazil",Country="Brazil"]:0.001873)[&label=98,Continent="South America",Point="Brazil",Country="Brazil"]:8.61E-4,AC5038_Brazil-AC_2021-02-27[&Continent="South America",Point="Brazil",Country="Brazil"]:3.22E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:2.0E-6,AC5030_Brazil-AC_2021-03-10[&Continent="South America",Point="Brazil",Country="Brazil"]:0.006133)[&label=88.3,Continent="South America",Point="Brazil",Country="Brazil"]:4.02E-4,AC5019_Brazil-AC_2021-02-24[&Continent="South America",Point="Brazil",Country="Brazil"]:6.33E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,(Fiocruz-ICC_7571_BRAZIL-SC_SaoJose_2023-03-12[&Continent="South America",Point="Brazil",Country="Brazil"]:0.003714,IAM-PE_DenV0061_2021-07-14[&Continent="South America",Point="Brazil",Country="Brazil"]:0.003703)[&label=17,Continent="South America",Point="Brazil",Country="Brazil"]:8.52E-4)[&label=92.9,Continent="South America",Point="Brazil",Country="Brazil"]:7.72E-4,((((15094_BR_RS_SapucaiadoSul_2022-04-18[&Continent="South America",Point="Peru",Country="Brazil"]:1.0E-6,17189_BR_RS_Canoas_2022-04-21[&Continent="South America",Point="Brazil",Country="Brazil"]:1.2E-4)[&label=73.2,Continent="South America",Point="Peru",Country="Brazil"]:1.19E-4,17305_BR_RS_SapucaiadoSul_2022-04-22[&Continent="South America",Point="Peru",Country="Brazil"]:2.49E-4)[&label=88.7,Continent="South America",Point="Peru",Country="Brazil"]:2.47E-4,13518_BR_RS_SapucaiadoSul_2022-04-12[&Continent="South America",Point="Peru",Country="Brazil"]:5.12E-4)[&label=82.1,Continent="South America",Point="Peru",Country="Brazil"]:3.72E-4,14281_BR_RS_SapucaiadoSul_2022-04-13[&Continent="South America",Point="Peru",Country="Brazil"]:3.0E-6)[&label=100,Continent="South America",Point="Peru",Country="Brazil"]:0.002126)[&label=90.3,Continent="South America",Country="Brazil"]:3.31E-4)[&label=0,Continent="South America",Country="Peru"]:1.0E-6,ON123626_Peru_2021-04-05[&Continent="South America",Country="Peru"]:8.92E-4)[&label=0,Continent="South America",Country="Peru"]:1.0E-6,(((((((((Fiocruz-ILMD-FVSRCP_AR2200002_Brazil_AM_AtalaiadoNorte_2022-11-03[&Continent="South America",Point="Brazil",Country="Brazil"]:0.0,Fiocruz-ILMD-FVSRCP_AR2200007_Brazil_AM_Tabatinga_2022-11-03[&Continent="South America",Point="Peru",Country="Brazil"]:0.0)[&Continent="South America",Point="Peru",Country="Brazil"]:1.0E-6,Fiocruz-ILMD-FVSRCP_AR2200006_Brazil_AM_Tabatinga_2022-11-02[&Continent="South America",Point="Peru",Country="Brazil"]:1.0E-6)[&label=87.3,Continent="South America",Point="Peru",Country="Brazil"]:2.37E-4,Fiocruz-ILMD-FVSRCP_AR2200013_BR_AM_SaoPaulodeOlivenca_2022-11-06[&Continent="South America",Point="Peru",Country="Brazil"]:3.57E-4)[&label=0,Continent="South America",Point="Peru",Country="Brazil"]:1.0E-6,((Fiocruz-ILMD-FVSRCP_AR2200003_Brazil_AM_AtalaiadoNorte_2022-11-03[&Continent="South America",Point="Brazil",Country="Brazil"]:4.76E-4,Fiocruz-ILMD-FVSRCP_AR2200010_Brazil_AM_BenjaminConstant_2022-10-19[&Continent="South America",Point="Brazil",Country="Brazil"]:2.37E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ILMD-FVSRCP_AR2200004_Brazil_AM_AtalaiadoNorte_2022-11-04[&Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ILMD-FVSRCP_AR2200011_Brazil_AM_BenjaminConstant_2022-10-24[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ILMD-FVSRCP_AR2200001_Brazil_AM_AtalaiadoNorte_2022-10-11[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,((Fiocruz-ILMD-FVSRCP_AR2200008_Brazil_AM_BenjaminConstant_2022-10-18[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ILMD-FVSRCP_AR2200009_Brazil_AM_BenjaminConstant_2022-10-18[&Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=86.7,Continent="South America",Point="Brazil",Country="Brazil"]:2.37E-4,Fiocruz-ILMD-FVSRCP_AR2200012_Brazil_AM_BenjaminConstant_2022-10-24[&Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6)[&label=0,Continent="South America",Point="Brazil",Country="Brazil"]:1.0E-6,Fiocruz-ILMD-FVSRCP_AR2200005_Brazil_AM_AtalaiadoNorte_2022-11-01[&Continent="South America",Point="Brazil",Country="Brazil"]:1.19E-4)[&label=100,Continent="South America",Point="Brazil",Country="Brazil"]:0.003725,((((ON123642_Peru_2021-04-08[&Continent="South America",Country="Peru"]:2.96E-4,ON123643_Peru_2021-04-12[&Continent="South America",Country="Peru"]:1.0E-6)[&label=99.8,Continent="South America",Country="Peru"]:8.92E-4,ON123644_Peru_2021-07-21[&Continent="South America",Country="Peru"]:8.92E-4)[&label=0,Continent="South America",Country="Peru"]:1.0E-6,ON123639_Peru_2021-03-04[&Continent="South America",Country="Peru"]:3.96E-4)[&label=100,Continent="South America",Country="Peru"]:0.001693,((ON123638_Peru_2021-03-01[&Continent="South America",Country="Peru"]:5.68E-4,ON123641_Peru_2021-03-24[&Continent="South America",Country="Peru"]:4.22E-4)[&label=86.6,Continent="South America",Country="Peru"]:2.95E-4,ON123640_Peru_2021-03-08[&Continent="South America",Country="Peru"]:7.2E-4)[&label=99.9,Continent="South America",Country="Peru"]:0.001471)[&label=69.8,Continent="South America",Country="Peru"]:2.9E-4)[&label=0,Continent="South America",Country="Peru"]:2.0E-6)[&label=100,Continent="South America",Country="Peru"]:0.001613,(LC436672_Bangladesh_2017-10[&Continent="South Asia",Point="Brazil",Country="Bangladesh"]:7.93E-4,MN328061_Bangladesh_2019-07-29[&Continent="South Asia",Point="Brazil",Country="Bangladesh"]:0.001326)[&label=90.3,Continent="South Asia",Point="Brazil",Country="Bangladesh"]:3.01E-4)[&label=99.4,Continent="South Asia",Point="Brazil",Country="Bangladesh"]:0.001014,LC436673_Bangladesh_2017-11[&Continent="South Asia",Point="Brazil",Country="Bangladesh"]:0.001602)[&label=99.3,Continent="South Asia",Point="Brazil",Country="Bangladesh"]:0.001051,((LC436674_Bangladesh_2017-11[&Continent="South Asia",Point="Brazil",Country="Bangladesh"]:9.8E-5,LC436675_Bangladesh_2017-12[&Continent="South Asia",Point="Brazil",Country="Bangladesh"]:6.92E-4)[&label=99.7,Continent="South Asia",Point="Brazil",Country="Bangladesh"]:0.001263,LC436669_Bangladesh_2017-10[&Continent="South Asia",Point="Brazil",Country="Bangladesh"]:0.001218)[&label=81.6,Continent="South Asia",Point="Brazil",Country="Bangladesh"]:2.04E-4)[&label=100,Continent="South Asia",Point="Brazil",Country="Bangladesh"];
+end;
+
+begin figtree;
+	set appearance.backgroundColorAttribute="Default";
+	set appearance.backgroundColour=#ffffff;
+	set appearance.branchColorAttribute="Country";
+	set appearance.branchColorGradient=false;
+	set appearance.branchLineWidth=2.0;
+	set appearance.branchMinLineWidth=0.0;
+	set appearance.branchWidthAttribute="Fixed";
+	set appearance.foregroundColour=#000000;
+	set appearance.hilightingGradient=false;
+	set appearance.selectionColour=#2d3680;
+	set branchLabels.colorAttribute="User selection";
+	set branchLabels.displayAttribute="Branch times";
+	set branchLabels.fontName="sansserif";
+	set branchLabels.fontSize=8;
+	set branchLabels.fontStyle=0;
+	set branchLabels.isShown=false;
+	set branchLabels.significantDigits=4;
+	set colour.order.country="Country:Bangladesh,Brazil,Peru";
+	set colour.scheme.country="Country:FixedDiscrete{FIXED}";
+	set layout.expansion=0;
+	set layout.layoutType="RECTILINEAR";
+	set layout.zoom=0;
+	set legend.attribute="Country";
+	set legend.fontSize=10.0;
+	set legend.isShown=true;
+	set legend.significantDigits=4;
+	set nodeBars.barWidth=4.0;
+	set nodeBars.displayAttribute=null;
+	set nodeBars.isShown=false;
+	set nodeLabels.colorAttribute="User selection";
+	set nodeLabels.displayAttribute="Node ages";
+	set nodeLabels.fontName="sansserif";
+	set nodeLabels.fontSize=8;
+	set nodeLabels.fontStyle=0;
+	set nodeLabels.isShown=false;
+	set nodeLabels.significantDigits=4;
+	set nodeShapeExternal.colourAttribute="Country";
+	set nodeShapeExternal.isShown=true;
+	set nodeShapeExternal.minSize=10.0;
+	set nodeShapeExternal.scaleType=Width;
+	set nodeShapeExternal.shapeType=Circle;
+	set nodeShapeExternal.size=10.0;
+	set nodeShapeExternal.sizeAttribute="Fixed";
+	set nodeShapeInternal.colourAttribute="User selection";
+	set nodeShapeInternal.isShown=false;
+	set nodeShapeInternal.minSize=10.0;
+	set nodeShapeInternal.scaleType=Width;
+	set nodeShapeInternal.shapeType=Circle;
+	set nodeShapeInternal.size=4.0;
+	set nodeShapeInternal.sizeAttribute="Fixed";
+	set polarLayout.alignTipLabels=false;
+	set polarLayout.angularRange=0;
+	set polarLayout.rootAngle=0;
+	set polarLayout.rootLength=100;
+	set polarLayout.showRoot=true;
+	set radialLayout.spread=0.0;
+	set rectilinearLayout.alignTipLabels=false;
+	set rectilinearLayout.curvature=0;
+	set rectilinearLayout.rootLength=100;
+	set scale.offsetAge=0.0;
+	set scale.rootAge=1.0;
+	set scale.scaleFactor=1.0;
+	set scale.scaleRoot=false;
+	set scaleAxis.automaticScale=true;
+	set scaleAxis.fontSize=8.0;
+	set scaleAxis.isShown=false;
+	set scaleAxis.lineWidth=1.0;
+	set scaleAxis.majorTicks=1.0;
+	set scaleAxis.minorTicks=0.5;
+	set scaleAxis.origin=0.0;
+	set scaleAxis.reverseAxis=false;
+	set scaleAxis.showGrid=true;
+	set scaleBar.automaticScale=true;
+	set scaleBar.fontSize=10.0;
+	set scaleBar.isShown=true;
+	set scaleBar.lineWidth=1.0;
+	set scaleBar.scaleRange=0.0;
+	set tipLabels.colorAttribute="User selection";
+	set tipLabels.displayAttribute="Names";
+	set tipLabels.fontName="sansserif";
+	set tipLabels.fontSize=8;
+	set tipLabels.fontStyle=0;
+	set tipLabels.isShown=false;
+	set tipLabels.significantDigits=4;
+	set trees.order=false;
+	set trees.orderType="increasing";
+	set trees.rooting=false;
+	set trees.rootingType="User Selection";
+	set trees.transform=false;
+	set trees.transformType="cladogram";
+end;
+
